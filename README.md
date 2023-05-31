@@ -57,7 +57,7 @@
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/tamirlan1919)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/tamirlan1919)
-[![Mac](https://img.shields.io/badge/mac-black?style=for-the-badge&logo=mac)](https://github.com/tamirlan1919)
+[![IOS](https://img.shields.io/badge/ios-black?style=for-the-badge&logo=ios)](https://github.com/tamirlan1919)
 
 
 <!--
